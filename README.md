@@ -1,2 +1,2 @@
 # liamjcoulter.github.io
-Personal website test 
+This is a personal website.
